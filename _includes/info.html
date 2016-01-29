@@ -1,0 +1,29 @@
+<section id="start-camp" class="single">
+  <div class="container">
+    <div class="row">
+          <div class="col-md-12">
+            <div class="portfolio-item center">
+              <ul>
+                {% for post in site.categories.info %}
+                  <div>
+                    <img class="img-responsive center-block post" src="{{ post.image }}">
+                    <div class="h1-bg"><h2>{{ post.title }}</h2></div>
+                    <div class="post">{{ post.content }}</div>
+                  </div>
+                {% endfor %}  
+              </ul>
+            </div>
+         </div>
+         <div class="col-md-12">
+            <div class="portfolio-item center portfolio-top">
+              <a href="rates.html" class="btn btn-lg btn-dark source">Rates</a>
+              <a href="form.html" class="btn btn-lg btn-dark source">Work for Camp 510</a>
+            </div>
+         </div>
+      </div>
+      <!-- /.col-lg-10 -->
+    </div>
+    <!-- /.row -->
+  </div>
+  <!-- /.container -->
+</section>

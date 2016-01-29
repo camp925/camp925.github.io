@@ -1,0 +1,23 @@
+<section id="photo" class="single">
+  <div class="container">
+    <div class="row">
+          <div class="col-md-12">
+            <div class="portfolio-item h2 center text">
+              <h1 class="h1-bg">{{ page.title }}</h1>
+              {% for post in site.categories.gallery %}
+                <li class="li-none">
+                  <a href="{{ post.url }}">
+                    <img class="img-responsive center-block post" src="{{ post.image }}">
+                    <div class="post">{{ post.title }}</div>
+                  </a>
+                </li>  
+              {% endfor %}
+            </div>
+         </div>
+      </div>
+      <!-- /.col-lg-10 -->
+    </div>
+    <!-- /.row -->
+  </div>
+  <!-- /.container -->
+</section>

@@ -1,0 +1,31 @@
+<section id="xp" class="single">
+  <div class="container">
+    <div class="row">
+          <div class="col-md-12">
+            <div class="portfolio-item h2 center text">
+              <h1 class="h1-bg">{{ page.title}}</h1>
+              <div><img class="img-responsive center-block post" src="{{ page.image }}"></div>
+              {% if page.iframe %}
+                <div class='videoWrapper'>
+                  <iframe width='560' height='349' src='{{ page.iframe }}' frameborder='0' allowfullscreen></iframe>
+                </div>
+              {% endif %}  
+              <div class="post">{{ content }}</div>
+              <div><img class="img-responsive center-block" src="{{ page.image2 }}"></div>
+              <div><img class="img-responsive center-block portfolio-top" src="{{ page.image3 }}"></div>
+              <div><img class="img-responsive center-block portfolio-top" src="{{ page.image4 }}"></div>
+              <div><img class="img-responsive center-block portfolio-top" src="{{ page.image5 }}"></div>
+              <div><img class="img-responsive center-block portfolio-top" src="{{ page.image6 }}"></div>
+              <div><img class="img-responsive center-block portfolio-top" src="{{ page.image7 }}"></div>
+              <div><img class="img-responsive center-block portfolio-top" src="{{ page.image8 }}"></div>
+              <div><img class="img-responsive center-block portfolio-top" src="{{ page.image9 }}"></div>
+            </div>
+         </div>
+      </div>
+      <!-- /.col-lg-10 -->
+    </div>
+    <!-- /.row -->
+  </div>
+  <!-- /.container -->
+</section>
+

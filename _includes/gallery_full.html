@@ -1,0 +1,21 @@
+<section id="photo" class="single">
+  <div class="container">
+    <div class="row">
+          <div class="col-md-12">
+            <div class="portfolio-item h2 center text">
+              <h1 class="h1-bg">{{ page.title }}</h1>
+                {% for url in page.iframe_urls %}
+                <div class="videoWrapper">
+                  <iframe width="560" src="{{ url }}" frameborder="0" allowfullscreen></iframe>
+                </div>
+                <a href="{{ site.url }}/gallery.html" class="btn btn-dark btn-lg">Back to Photo Gallery</a>
+                {% endfor %}
+            </div>
+         </div>
+      </div>
+      <!-- /.col-lg-10 -->
+    </div>
+    <!-- /.row -->
+  </div>
+  <!-- /.container -->
+</section>

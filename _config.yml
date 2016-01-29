@@ -1,0 +1,34 @@
+# Site settings
+title: Camp 510
+email: youandme@camp510.com
+description: > # this means to ignore newlines until "baseurl:"
+  CAMP 510 was founded by two artist/maker mothers who believe that summer camp should be a magical place where children come to make, create, grow, play and share.
+  CAMP 510 is a one-of-a-kind experience. Our teachers are local artists and makers who are passionate about their work. AT CAMP 510 these amazing people teach what they love to do. Consequently, our offerings change every week and every year.
+  CAMP 510 is small by design—each group only has 12-15 campers. We have an average 1:5 ratio of staff to camper*, so every young maker has enough support and supervision to learn in a safe way, as well as ample space to create and enough time to focus on and explore their own work.
+  CAMP 510 is child-centered. This means we focus on the experience of our campers above all else. We put them at the center of all of our decisions: what projects we curate; what food we serve; how we think about and talk about our camp community; our rules and our rituals; …even what music we play for a dance party! It’s about the kids—not us.
+  CAMP 510 campers explore, practice and work with real tools and techniques. In this environment, they are invited to solve problems creatively; to try and fail and try again; to work on their own, as well as collaboratively; to share their creative vision; and be a part of the community.
+  Through all this making and creating, campers build creative confidence, resilience, and a deep sense of their own power to influence their environment…and they have FUN too!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+# User setting
+owner: Camp 510
+email: youandme@camp510.com
+facebook_username: pages/CAMP-510-CommunityArtMakePlay/152609521524225?ref=hl
+twitter_username: camp510
+github_username:
+address:
+  - line: 360 42nd St 
+  - line: Oakland CA 94609
+address2:
+  - line: PO Box 22836 
+  - line: Oakland CA 94609-2836
+  # Feel free to add more lines here 
+telephone: 510-610-7450
+copyright: CAMP 510
+
+# API settings
+google_api_key: AIzaSyBXQ2sIEq2HsXGpCNqgS8M7g7OqWleZDk4
+
+# Build settings
+markdown: kramdown
