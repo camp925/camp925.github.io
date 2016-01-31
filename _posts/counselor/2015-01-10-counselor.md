@@ -4,7 +4,7 @@ title: Be a Counselor
 category: counselor
 ---
 
-##Be a Counselor (or Junior Counselor) at CAMP 510 This Summer!
+##Be a Counselor (or Junior Counselor) at CAMP 925 This Summer!
 
 CAMP 510 is currently hiring high school and college students (18+*), artists & makers as Counselors for Summer 2016. 
 
