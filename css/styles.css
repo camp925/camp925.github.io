@@ -250,6 +250,10 @@ hr.small {
     padding: 12px;
 }
 
+.link {
+    margin: 20px
+}
+
 .size {
     font-size: 28px;
 }
