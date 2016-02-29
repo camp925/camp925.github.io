@@ -20,11 +20,11 @@ This position is the natural next step if you’ve been a JC already, and will i
 
 **_Some exceptions may be made for younger applicants if they have previously been a Junior Counselor (JC) at CAMP 510, and have proper work permits._**
 
-Access application <a href="{{ site.url }}/counselor_form.html">here.</a>
+Access application <a href="{{ site.url }}/counselor_form.html" target="_blank">here.</a>
 
 
 ## Junior Counselors (JC’s) are ages 13-17
 
 As a JC, you’ll be in a supportive work training program designed to teach and foster the skills needed to become a Counselor at CAMP 510. JC’s are asked to commit to 3+ weeks (which need not be consecutive), and will participate in all the aspects of CAMP 510. JC’s report to the Lead JC and will also be mentored by Counselors and staff. There are weekly individual check-ins and group JC meetings to support the development of leadership skills, practice peaceful conflict resolution techniques, and work on JC’s individual goals. JCs must submit an application and if ‘hired’, will register for their weeks on our website. The weekly fee is $125. JC’s who work for 3+ weeks receive a small stipend at the end of their term.
 
-Access application <a href="{{ site.url }}/junior_form.html">here.</a>
+Access application <a href="{{ site.url }}/junior_form.html" target="_blank">here.</a>
