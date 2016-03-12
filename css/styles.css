@@ -373,6 +373,10 @@ footer {
 .change-font {
     font-family: Populaire, "Source Sans Pro","Helvetica Neue","Helvetica","Arial","sans-serif";
 }
+
+.hills {
+    margin-top: 10px;
+}
 /* posts */
 .post {
     margin-top: 12px;
