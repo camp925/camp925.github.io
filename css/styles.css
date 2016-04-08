@@ -108,7 +108,7 @@ ul {
 
 .btn-dark-news {
     border-radius: 0;
-    color: #fff;
+    color: #000;
     background-color: rgba(0,177,180,0.4);
 }
 
@@ -174,7 +174,7 @@ hr.small {
     font-size: 24px;
     display: block;
     text-decoration: none;
-    color: #999;
+    color: #000;
 }
 
 .sidebar-nav li a:hover {
@@ -195,7 +195,7 @@ hr.small {
 }
 
 .sidebar-nav > .sidebar-brand a {
-    color: #999;
+    color: #000;
 }
 
 .sidebar-nav > .sidebar-brand a:hover {
